@@ -1,4 +1,4 @@
-# FalcoVision - 图像分类项目
+# FalcoVision - 猎瞳
 
 本项目使用PyTorch和ResNet18架构实现了一个图像分类系统。它可以根据训练好的模型将图像分类到不同的类别中。
 
