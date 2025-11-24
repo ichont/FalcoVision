@@ -5,6 +5,7 @@
 [![pulls](https://img.shields.io/github/issues-pr-closed-raw/ichont/FalcoVision.svg?style=flat)](https://github.com/ichont/FalcoVision/pulls)
 
 猎瞳：强大的图像分类模型，在多种数据集中达到98%以上的准确度，在某些数据集准确度达到100%！
+超级轻量化的Resnet优化算法，耗时短，计算资源要求低，精度高！
 
 该项目成果荣获：
 - 2024睿抗机器人开发者大赛AI算法赛（图像分类）全国亚军
