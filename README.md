@@ -1,4 +1,8 @@
 # FalcoVision
+[![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-HelpT/stargazers)
+[![](https://img.shields.io/github/forks/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/network/members)
+![](https://img.shields.io/github/repo-size/ichont/DMU-Course-Help.svg?style=flat)
+[![pulls](https://img.shields.io/github/issues-pr-closed-raw/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/pulls)
 强大的图像分类模型
 
 在多种数据集中达到98%以上的准确度，在某些数据集准确度达到100%！
