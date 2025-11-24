@@ -1,2 +1,9 @@
 # FalcoVision
-强大的图像分类模型-A Robust Approach to Image Classification with 100% Accuracy Potential
+强大的图像分类模型
+
+在多种数据集中达到98%以上的准确度，在一些数据集中准确度达到100%
+
+该项目成果荣获：
+- 2024睿抗机器人开发者大赛AI算法赛（图像分类）全国亚军
+- 2024全球校园算法精英大赛全国三等奖
+- 2025全国大学生计算机设计大赛全国二等奖
