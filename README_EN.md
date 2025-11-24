@@ -10,6 +10,14 @@ This project implements an image classification system using PyTorch and ResNet1
 - Comprehensive training and testing scripts
 - Data preprocessing and augmentation
 
+## Workflow
+
+### Training Process
+<img src="./pic/train.png" width="200">
+
+### Testing Process
+<img src="./pic/test.png" width="200">
+
 ## Project Structure
 
 ```
