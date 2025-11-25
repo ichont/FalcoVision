@@ -12,7 +12,7 @@
 - 支持GPU加速
 - 包含完整的训练和测试脚本
 - 数据预处理和增强功能
-
+- 同时提供了一些用于CV分类的数据集[FalconVision-datasets](https://huggingface.co/datasets/Ichont/FalconVision-datasets)
 ## 获奖信息
 
 该项目代码荣获：
