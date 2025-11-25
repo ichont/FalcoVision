@@ -2,7 +2,8 @@
 [![](https://img.shields.io/github/stars/ichont/FalcoVision.svg?style=flat)](https://github.com/ichont/FalcoVision/stargazers)
 [![](https://img.shields.io/github/forks/ichont/FalcoVision.svg?style=flat)](https://github.com/ichont/FalcoVision/network/members)
 ![](https://img.shields.io/github/repo-size/ichont/FalcoVision.svg?style=flat)
-本项目使用PyTorch和ResNet18架构实现了一个图像分类系统。它可以根据训练好的模型将图像分类到不同的类别中。
+
+本项目使用PyTorch和ResNet18架构实现了一个图像分类系统。它可以根据训练好的模型实现图像精准分类。
 
 ## 功能特点
 
